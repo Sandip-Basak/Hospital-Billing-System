@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Bill
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ use\ to\ initialize\ \ all\ class\ variable\ \r\n(\ This\ method\ should\ call\ once\ at\ the\ time\ of\ whole\ program\ execution.\ )\r\n
+comment2.params=itm\ qty\ unt\ price
+comment2.target=void\ addItem(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ TO\ add\ a\ bill\ item\ name\ and\ its\ quantity,unit,and\ price\ per\ unit\ \r\n\ which\ are\ provide\ as\ parameter\ from\ calling\ method.\ \r\n
+comment3.params=pname\ age\ gen\ add\ pin\ ph
+comment3.target=void\ add_patient_dtls(java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=c\ t
+comment4.target=java.lang.String\ repeat(char,\ int)
+comment4.text=\r\n\ Use\ to\ repeat\ a\ character(from\ argument)\ t\ time\ and\ return\ created\ string.\r\n
+comment5.params=s\ size\ align
+comment5.target=java.lang.String\ print(java.lang.String,\ int,\ char)
+comment5.text=\r\n\ Use\ to\ make\ string\ specified\ string\ size\r\n
+comment6.params=
+comment6.target=void\ showBill()
+comment6.text=\r\n\ to\ show\ final\ bill\r\n
+numComments=7
